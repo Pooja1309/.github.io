@@ -2,21 +2,9 @@ header,footer{
 	font-size:120%;
 	color:rgb(65,105,225);
 	background-color:rgba(255,255,255,.4);
-	background-image: url("../images/header.jpg");
-	background-size:100%;
-	background-repeat:no-repeat;
 	border:2%;
 	padding:2%;
 	margin-bottom:4%;
-}
-
-button{
-	background-color:rgba(255,255,255,.4);
-	padding: 10px;
-	margin: 1%; 
-	text-decoration: none; 
-	border-radius: 5px; 
-	color:rgb(75,0,130);
 }
 
 h2{
@@ -34,7 +22,7 @@ h4{
 }
 
 header{
-	text-align:left;
+	text-align:center;
 }
 
 nav{
